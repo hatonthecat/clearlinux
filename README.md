@@ -1,3 +1,9 @@
+Benchmarks
+--
+https://www.phoronix.com/review/clear-linux-48p-ubuntu
+
+--
+
 ## DISCONTINUATION OF PROJECT. 
 
 This project will no longer be maintained by Intel. 
